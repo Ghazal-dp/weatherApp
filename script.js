@@ -38,6 +38,7 @@ async function chekWeather(city) {
             case "mist":
                 weatherIcon.src = "images/mist.png"
         }
+        // hi from dp local
 
         //   console.log(data)
     })
